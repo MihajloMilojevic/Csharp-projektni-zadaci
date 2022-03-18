@@ -47,7 +47,6 @@ namespace Zmijice
             this.tabla.Size = new System.Drawing.Size(500, 500);
             this.tabla.TabIndex = 0;
             this.tabla.TabStop = false;
-            this.tabla.Click += new System.EventHandler(this.tabla_Click);
             // 
             // timer
             // 

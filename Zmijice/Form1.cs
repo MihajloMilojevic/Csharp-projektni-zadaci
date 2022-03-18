@@ -53,9 +53,5 @@ namespace Zmijice
             Nacrtaj();
         }
 
-        private void tabla_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show("KLIK");
-        }
     }
 }
