@@ -50,7 +50,7 @@ namespace Zmijice
             // 
             // timer
             // 
-            this.timer.Interval = 1000;
+            this.timer.Interval = 50;
             this.timer.Tick += new System.EventHandler(this.timer_Tick);
             // 
             // start
@@ -77,6 +77,7 @@ namespace Zmijice
             this.Name = "forma";
             this.Text = "Zmijice";
             this.Load += new System.EventHandler(this.forma_Load);
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.forma_KeyDown);
             ((System.ComponentModel.ISupportInitialize)(this.tabla)).EndInit();
             this.ResumeLayout(false);
 
