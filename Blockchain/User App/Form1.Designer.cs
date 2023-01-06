@@ -159,6 +159,7 @@
             this.blockchainPreview.Name = "blockchainPreview";
             this.blockchainPreview.Size = new System.Drawing.Size(244, 238);
             this.blockchainPreview.TabIndex = 0;
+            this.blockchainPreview.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.blockchainPreview_MouseDoubleClick);
             // 
             // panel3
             // 

@@ -76,6 +76,12 @@
   <ItemGroup>
     <Compile Include="Block.cs" />
     <Compile Include="Blockchain.cs" />
+    <Compile Include="BlockChainDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BlockChainDetails.Designer.cs">
+      <DependentUpon>BlockChainDetails.cs</DependentUpon>
+    </Compile>
     <Compile Include="Controller.cs" />
     <Compile Include="DiscoveryServerMessage.cs" />
     <Compile Include="Form1.cs">
@@ -89,6 +95,9 @@
     <Compile Include="Peer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="BlockChainDetails.resx">
+      <DependentUpon>BlockChainDetails.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>

@@ -114,7 +114,7 @@ namespace User_App
                 else
                 {
                     log("Block added to chain");
-                    newBlockDataTB.Text = "";
+                    newBlockDataTB.Invoke(new MethodInvoker(() => newBlockDataTB.Text = ""));
                 }
                 addBlock.Invoke(new MethodInvoker(() =>
                 {
@@ -122,6 +122,13 @@ namespace User_App
                 }));
             });
             miningThread.Start();
+        }
+
+        private void blockchainPreview_MouseDoubleClick(object sender, MouseEventArgs e)
+        {
+            int index = blockchainPreview.IndexFromPoint(e.Location);
+            if (index == ListBox.NoMatches) return;
+            (new BlockChainDetails(blockchain, index)).Show();
         }
     }
 }
