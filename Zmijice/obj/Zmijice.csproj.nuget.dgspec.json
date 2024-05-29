@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Programiranje\\Desktop\\Mihajlo Milojevic\\C# projektni zadaci\\Zmijice\\Zmijice.csproj": {}
+    "C:\\MIHAJLO_MILOJEVIC\\PROJEKTI\\Csharp-projektni-zadaci\\Zmijice\\Zmijice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Programiranje\\Desktop\\Mihajlo Milojevic\\C# projektni zadaci\\Zmijice\\Zmijice.csproj": {
+    "C:\\MIHAJLO_MILOJEVIC\\PROJEKTI\\Csharp-projektni-zadaci\\Zmijice\\Zmijice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Programiranje\\Desktop\\Mihajlo Milojevic\\C# projektni zadaci\\Zmijice\\Zmijice.csproj",
+        "projectUniqueName": "C:\\MIHAJLO_MILOJEVIC\\PROJEKTI\\Csharp-projektni-zadaci\\Zmijice\\Zmijice.csproj",
         "projectName": "Zmijice",
-        "projectPath": "C:\\Users\\Programiranje\\Desktop\\Mihajlo Milojevic\\C# projektni zadaci\\Zmijice\\Zmijice.csproj",
-        "packagesPath": "C:\\Users\\Programiranje\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Programiranje\\Desktop\\Mihajlo Milojevic\\C# projektni zadaci\\Zmijice\\obj\\",
+        "projectPath": "C:\\MIHAJLO_MILOJEVIC\\PROJEKTI\\Csharp-projektni-zadaci\\Zmijice\\Zmijice.csproj",
+        "packagesPath": "C:\\Users\\Mihajlo\\.nuget\\packages\\",
+        "outputPath": "C:\\MIHAJLO_MILOJEVIC\\PROJEKTI\\Csharp-projektni-zadaci\\Zmijice\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Programiranje\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Mihajlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -49,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -61,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

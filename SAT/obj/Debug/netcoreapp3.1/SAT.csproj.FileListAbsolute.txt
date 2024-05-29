@@ -14,3 +14,19 @@ C:\Users\Programiranje\Desktop\Mihajlo Milojevic\C# projektni zadaci\SAT\obj\Deb
 C:\Users\Programiranje\Desktop\Mihajlo Milojevic\C# projektni zadaci\SAT\obj\Debug\netcoreapp3.1\SAT.dll
 C:\Users\Programiranje\Desktop\Mihajlo Milojevic\C# projektni zadaci\SAT\obj\Debug\netcoreapp3.1\SAT.pdb
 C:\Users\Programiranje\Desktop\Mihajlo Milojevic\C# projektni zadaci\SAT\obj\Debug\netcoreapp3.1\SAT.genruntimeconfig.cache
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\SAT\bin\Debug\netcoreapp3.1\SAT.exe
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\SAT\bin\Debug\netcoreapp3.1\SAT.deps.json
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\SAT\bin\Debug\netcoreapp3.1\SAT.runtimeconfig.json
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\SAT\bin\Debug\netcoreapp3.1\SAT.runtimeconfig.dev.json
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\SAT\bin\Debug\netcoreapp3.1\SAT.dll
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\SAT\bin\Debug\netcoreapp3.1\SAT.pdb
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\SAT\obj\Debug\netcoreapp3.1\SAT.csproj.AssemblyReference.cache
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\SAT\obj\Debug\netcoreapp3.1\SAT.Form1.resources
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\SAT\obj\Debug\netcoreapp3.1\SAT.csproj.GenerateResource.cache
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\SAT\obj\Debug\netcoreapp3.1\SAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\SAT\obj\Debug\netcoreapp3.1\SAT.AssemblyInfoInputs.cache
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\SAT\obj\Debug\netcoreapp3.1\SAT.AssemblyInfo.cs
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\SAT\obj\Debug\netcoreapp3.1\SAT.csproj.CoreCompileInputs.cache
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\SAT\obj\Debug\netcoreapp3.1\SAT.dll
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\SAT\obj\Debug\netcoreapp3.1\SAT.pdb
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\SAT\obj\Debug\netcoreapp3.1\SAT.genruntimeconfig.cache

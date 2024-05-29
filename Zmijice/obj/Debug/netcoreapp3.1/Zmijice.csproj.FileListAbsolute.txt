@@ -14,3 +14,19 @@ C:\Users\Programiranje\Desktop\Mihajlo Milojevic\C# projektni zadaci\Zmijice\obj
 C:\Users\Programiranje\Desktop\Mihajlo Milojevic\C# projektni zadaci\Zmijice\obj\Debug\netcoreapp3.1\Zmijice.dll
 C:\Users\Programiranje\Desktop\Mihajlo Milojevic\C# projektni zadaci\Zmijice\obj\Debug\netcoreapp3.1\Zmijice.pdb
 C:\Users\Programiranje\Desktop\Mihajlo Milojevic\C# projektni zadaci\Zmijice\obj\Debug\netcoreapp3.1\Zmijice.genruntimeconfig.cache
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\Zmijice\bin\Debug\netcoreapp3.1\Zmijice.exe
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\Zmijice\bin\Debug\netcoreapp3.1\Zmijice.deps.json
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\Zmijice\bin\Debug\netcoreapp3.1\Zmijice.runtimeconfig.json
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\Zmijice\bin\Debug\netcoreapp3.1\Zmijice.runtimeconfig.dev.json
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\Zmijice\bin\Debug\netcoreapp3.1\Zmijice.dll
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\Zmijice\bin\Debug\netcoreapp3.1\Zmijice.pdb
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\Zmijice\obj\Debug\netcoreapp3.1\Zmijice.csproj.AssemblyReference.cache
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\Zmijice\obj\Debug\netcoreapp3.1\Zmijice.forma.resources
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\Zmijice\obj\Debug\netcoreapp3.1\Zmijice.csproj.GenerateResource.cache
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\Zmijice\obj\Debug\netcoreapp3.1\Zmijice.GeneratedMSBuildEditorConfig.editorconfig
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\Zmijice\obj\Debug\netcoreapp3.1\Zmijice.AssemblyInfoInputs.cache
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\Zmijice\obj\Debug\netcoreapp3.1\Zmijice.AssemblyInfo.cs
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\Zmijice\obj\Debug\netcoreapp3.1\Zmijice.csproj.CoreCompileInputs.cache
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\Zmijice\obj\Debug\netcoreapp3.1\Zmijice.dll
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\Zmijice\obj\Debug\netcoreapp3.1\Zmijice.pdb
+C:\MIHAJLO_MILOJEVIC\PROJEKTI\Csharp-projektni-zadaci\Zmijice\obj\Debug\netcoreapp3.1\Zmijice.genruntimeconfig.cache
